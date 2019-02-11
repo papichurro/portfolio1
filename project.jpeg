@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+    <title></title>
+
+</head>
+
+<body>
+
+    <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0"
+        aria-valuemax="100"></div>
+    </div>
+    <div class="progress">
+        <div class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+            aria-valuemax="100"></div>
+    </div>
+    <div class="progress">
+        <div class="progress-bar bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+            aria-valuemax="100"></div>
+    </div>
+    <div class="progress">
+        <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0"
+            aria-valuemax="100"></div>
+    </div>
+
+<nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand">
+        Fernando Guzman- Front End DeVelOp.
+    </a>
+    <form class="form-inline">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+</nav>
+<p class="CapiTaliZed"> Portfolio Page</p>
+
+<blockquote class="blockquote text-center">
+    <p class="mb-0">Best devolepement and tech company</p>
+    <footer class="blockquote-footer">Bill Gates-<cite title="Source Title">, Microsoft</cite></footer>
+</blockquote>
+
+<button type="button" class="btn btn-outline-primary">AbOuT Us</button>
+<button type="button" class="btn btn-outline-secondary">T</button>
+<button type="button" class="btn btn-outline-success">E</button>
+<button type="button" class="btn btn-outline-danger">C</button>
+<button type="button" class="btn btn-outline-warning">H</button>
+<button type="button" class="btn btn-outline-info">N</button>
+<button type="button" class="btn btn-outline-light">O</button>
+<button type="button" class="btn btn-outline-dark">LoCaTiOnS</button>
+
+<div class="card" style="width: 7rem;">
+<img width="200" height="100" class="mimg" style="color: rgb(52, 93, 151);" alt="Image result for Advanced Technology"
+    src="https://www.bing.com/th?id=OIP.Elru-1IFE4luMakc-35bKQHaFk&amp;w=235&amp;h=160&amp;c=7&amp;o=5&amp;dpr=1.25&amp;pid=1.7"
+    data-bm="34">
+   
+    <div class="card-body">
+        <h5 class="card-title">ORDER</h5>
+        <p class="card-text"></p>
+        <a href="#" class="btn btn-primary">contac Us</a>
+    </div>
+</div>
+ 
+
+
+
+
+
+    <h1>
+        <div class="p-3 mb-2 bg-success text-white">SillyGuz</div>
+        <div class="p-3 mb-2 bg-warning text-dark">devolepement</div>
+    </h1>
+<p class="font-weight-lighter"> .</p>
+
+
+    
+<img width="700" height="460" class="mimg" style="color: rgb(52, 93, 151);" alt="Image result for Advanced Technology"
+    src="https://www.bing.com/th?id=OIP.Elru-1IFE4luMakc-35bKQHaFk&amp;w=235&amp;h=160&amp;c=7&amp;o=5&amp;dpr=1.25&amp;pid=1.7"
+    data-bm="34">
+
+<img width="233" height="160" class="mimg" style="color: rgb(12, 147, 191);" alt="Image result for developer images"
+    src="https://www.bing.com/th?id=OIP.h3tJdhgPsPVUpfN1b4dlkgHaE8&amp;w=233&amp;h=160&amp;c=7&amp;o=5&amp;dpr=1.25&amp;pid=1.7"
+    data-bm="37">
+
+    <img alt="See the source image" src="http://www.theappguruz.com/public/assets/new_site/images/android_app_banner.jpg">
+
+    <img alt="See the source image" src="http://www.darrelpontejo.com/wp-content/uploads/2017/04/web-developer.jpg">
+
+
+        
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
